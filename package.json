@@ -1,0 +1,14 @@
+{
+  "name": "financial-growth-trends",
+  "version": "1.0.0",
+  "description": "Coding interview solution for sorted squared growth percentages",
+  "main": "src/sortedSquaredGrowth.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aden Osman",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
